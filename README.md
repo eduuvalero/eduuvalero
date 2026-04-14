@@ -1,4 +1,4 @@
-## Hi, I am Edu 😁
+## About me 😁
 First-year computer science student currently learning and building basics with C++ and Python. Passionate about AI/ML, and scientific research.
 
 ##
