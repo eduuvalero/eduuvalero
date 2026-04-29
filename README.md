@@ -3,7 +3,7 @@ First-year computer science student currently learning and building basics with 
 
 ##
 <p>
-  <a href="https://www.linkedin.com/in/eduardo-valero-timoshenko"><img src="https://skillicons.dev/icons?i=linkedin" alt="C++" /></a>
+  <a href="https://www.linkedin.com/in/eduardo-valero-timoshenko"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" /></a>
 </p>
 
 ## 
